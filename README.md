@@ -96,6 +96,7 @@ Ce sont les champs **requis** pour la création standard d’un colis :
 
 | Champ     | Type               | Description |
 |------------|--------------------|--------------|
+| `designation`| string  | Désignation du colis |
 | `tel2`     | string (8 chiffres) | Numéro de téléphone secondaire |
 | `bulk`     | boolean            | Indique si le colis fait partie d’un envoi groupé |
 | `fragile`  | boolean            | Indique si le colis est fragile |
